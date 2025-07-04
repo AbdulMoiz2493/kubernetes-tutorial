@@ -6,7 +6,7 @@ We welcome contributions to make this Kubernetes tutorial better! Whether it's f
 1. **Fork the Repository**: Click the "Fork" button on [GitHub](https://github.com/AbdulMoiz2493/kubernetes-tutorial).
 2. **Clone Your Fork**:
    ```bash
-   git clone https://github.com//AbdulMoiz2493/kubernetes-tutorial.git
+   git clone https://github.com/YOUR_USERNAME/kubernetes-tutorial.git
    ```
 3. **Create a Branch**:
    ```bash
